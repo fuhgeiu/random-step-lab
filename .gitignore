@@ -32,4 +32,4 @@
 *.app
 
 # xcode project
-step lab/step lab.xcodeproj
+step lab.xcodeproj
