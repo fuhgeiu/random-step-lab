@@ -33,3 +33,7 @@
 
 # xcode project
 step lab/step lab.xcodeproj
+
+.DS_Store
+.
+
