@@ -1,0 +1,32 @@
+    step lab
+    
+    
+    simulation of particle
+    
+    <thread>
+    
+        -each thread will handle a dimension, number line(1 thread), cordinate plane(2 threads), 3d space(3 threads)
+        -thread will call, function that calculatesa than outputs a direction to a dynamic array structure
+        
+    
+    
+     
+    algorithmic process
+    
+        -a thread is created, than it will generate a random number and than add it to a variable
+            - once thread process is completed than record into a cordinate object node
+            
+            
+    exceptions
+    
+        runtime
+        
+            - acessing a nullptr
+            - seg fault of improper buffer use
+            
+            
+   current operations
+   
+        1, A thread per dimension(number of trials, number of steps,que) is called
+        2, 
+            
