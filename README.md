@@ -3,7 +3,7 @@ repo for lab 1 for cs algorithim class
 
                             !! IMPORTANT !!
 
-        - This project used google benchmark 
+        - This project can be used with google benchmark 
         - Can be built with benchmark and without
         - Can run program base without google benchmark
 
