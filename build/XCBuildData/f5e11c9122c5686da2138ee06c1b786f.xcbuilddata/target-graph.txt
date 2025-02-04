@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+Target 'step_lab_benchmark' in project 'step_lab'
+➜ Explicit dependency on target 'ZERO_CHECK' in project 'step_lab'
+Target 'ZERO_CHECK' in project 'step_lab' (no dependencies)
