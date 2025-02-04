@@ -66,7 +66,7 @@ target_include_directories(step_lab_run PRIVATE ${BENCHMARK_DIR})
 target_include_directories(step_lab_benchmark PRIVATE ${BENCHMARK_DIR})
 
 
-target_link_libraries(step_lab_benchmark ${BENCHMARK_LIB_PATH})
+target_link_libraries(step_lab_benchmark PRIVATE ${BENCHMARK_LIB_PATH})
 
 #target_link_libraries(step_lab_benchmark ${BENCHMARK_LIB_PATH} ${GTEST_LIB_PATH})
 

@@ -9,21 +9,21 @@
 /* Begin PBXAggregateTarget section */
 		34B0DC928C78810DFCC8C4B8 /* ALL_BUILD */ = {
 			isa = PBXAggregateTarget;
-			buildConfigurationList = 32368F81DD004806A24A45DD /* Build configuration list for PBXAggregateTarget "ALL_BUILD" */;
+			buildConfigurationList = 6098E4BC3DEA47E1BE1DA02D /* Build configuration list for PBXAggregateTarget "ALL_BUILD" */;
 			buildPhases = (
 				BA59B84501F2E0764EF8B6BB /* Generate CMakeFiles/ALL_BUILD */,
 			);
 			dependencies = (
-				F3D8A3451060418B99A423E1 /* PBXTargetDependency */,
-				E12EA150D1214899844FB4AB /* PBXTargetDependency */,
-				F570D62E24DD4F52BB8F9F32 /* PBXTargetDependency */,
+				D383F4698F0D43C5846F0D52 /* PBXTargetDependency */,
+				5AB26E99DA074CAE8F82DB41 /* PBXTargetDependency */,
+				767710EA5689487CAF57D949 /* PBXTargetDependency */,
 			);
 			name = ALL_BUILD;
 			productName = ALL_BUILD;
 		};
 		8C6F65AC943A5727604622FD /* ZERO_CHECK */ = {
 			isa = PBXAggregateTarget;
-			buildConfigurationList = A42BD802F2EE49A4B1693D2A /* Build configuration list for PBXAggregateTarget "ZERO_CHECK" */;
+			buildConfigurationList = 394C2DEC629D4C908917387B /* Build configuration list for PBXAggregateTarget "ZERO_CHECK" */;
 			buildPhases = (
 				FACA3E989B5DCD6FA37CEDD4 /* Generate CMakeFiles/ZERO_CHECK */,
 			);
@@ -35,112 +35,112 @@
 /* End PBXAggregateTarget section */
 
 /* Begin PBXBuildFile section */
-		227552CE259945B8B8E5090D /* /Users/alexcarnes/Documents/GitHub/random-step-lab/includes/classcustvar_template.hpp */ = {isa = PBXBuildFile; fileRef = 74AB101216E2478DBCA6BB36 /* /Users/alexcarnes/Documents/GitHub/random-step-lab/includes/classcustvar_template.hpp */; };
-		487BC0135BE84CF0B9825C22 /* /Users/alexcarnes/Documents/GitHub/random-step-lab/includes/singlelink.hpp */ = {isa = PBXBuildFile; fileRef = CEBDB5183E774C39A167ADEF /* /Users/alexcarnes/Documents/GitHub/random-step-lab/includes/singlelink.hpp */; };
-		9CA60E58CBDD49B4899138BB /* /Users/alexcarnes/Documents/GitHub/random-step-lab/testing/benchmark.cpp */ = {isa = PBXBuildFile; fileRef = 9BE13B364C354D2994087B01 /* /Users/alexcarnes/Documents/GitHub/random-step-lab/testing/benchmark.cpp */; };
-		C80D723888CF441B8E39309B /* /Users/alexcarnes/Documents/GitHub/random-step-lab/step_lab/steplab.h */ = {isa = PBXBuildFile; fileRef = B05FB346CB3043EC847C7085 /* /Users/alexcarnes/Documents/GitHub/random-step-lab/step_lab/steplab.h */; };
-		CEA026332DCE47EBA86F6E91 /* /Users/alexcarnes/Documents/GitHub/random-step-lab/CMakeLists.txt */ = {isa = PBXBuildFile; fileRef = F20EC5DD127546F489742785 /* /Users/alexcarnes/Documents/GitHub/random-step-lab/CMakeLists.txt */; };
-		CF047082BDF047C5BBFC7DDA /* /Users/alexcarnes/Documents/GitHub/random-step-lab/includes/singlelink.hpp */ = {isa = PBXBuildFile; fileRef = DAF5075F18DD427EB72D5BEE /* /Users/alexcarnes/Documents/GitHub/random-step-lab/includes/singlelink.hpp */; };
-		EFBF1053B20343EFB97F979F /* /Users/alexcarnes/Documents/GitHub/random-step-lab/step_lab_main/main.cpp */ = {isa = PBXBuildFile; fileRef = 5B48E2A026434FB8BAD6DB24 /* /Users/alexcarnes/Documents/GitHub/random-step-lab/step_lab_main/main.cpp */; };
-		F0E2A8383621454B9A3D3AA9 /* /Users/alexcarnes/Documents/GitHub/random-step-lab/step_lab/steplab.h */ = {isa = PBXBuildFile; fileRef = CC6206C86F6F4001898FBD02 /* /Users/alexcarnes/Documents/GitHub/random-step-lab/step_lab/steplab.h */; };
-		F15D7517EE1A48BE94183DD0 /* /Users/alexcarnes/Documents/GitHub/random-step-lab/includes/classcustvar_template.hpp */ = {isa = PBXBuildFile; fileRef = 5D635AE6DECC4D9AA67C0354 /* /Users/alexcarnes/Documents/GitHub/random-step-lab/includes/classcustvar_template.hpp */; };
-		F43694B45F604F0CB11005B1 /* /Users/alexcarnes/Documents/GitHub/random-step-lab/CMakeLists.txt */ = {isa = PBXBuildFile; fileRef = E7B1C1896FD44B8196173A5E /* /Users/alexcarnes/Documents/GitHub/random-step-lab/CMakeLists.txt */; };
+		0236DF50ED6540E897A5C978 /* /Users/alexcarnes/Documents/GitHub/random-step-lab/includes/classcustvar_template.hpp */ = {isa = PBXBuildFile; fileRef = 866478F2F8BA40D980337A8E /* /Users/alexcarnes/Documents/GitHub/random-step-lab/includes/classcustvar_template.hpp */; };
+		107181E839CA42F4911FB3E0 /* /Users/alexcarnes/Documents/GitHub/random-step-lab/step_lab/steplab.h */ = {isa = PBXBuildFile; fileRef = B6F46EBEB24745B39C394DE3 /* /Users/alexcarnes/Documents/GitHub/random-step-lab/step_lab/steplab.h */; };
+		16EFA57E2E454BA882FB3B93 /* /Users/alexcarnes/Documents/GitHub/random-step-lab/testing/benchmark.cpp */ = {isa = PBXBuildFile; fileRef = 36215CB9E6EB466280124D65 /* /Users/alexcarnes/Documents/GitHub/random-step-lab/testing/benchmark.cpp */; };
+		1F813C9594794252B9ABEE60 /* /Users/alexcarnes/Documents/GitHub/random-step-lab/CMakeLists.txt */ = {isa = PBXBuildFile; fileRef = F646C2799FBB4F37BED1CF0E /* /Users/alexcarnes/Documents/GitHub/random-step-lab/CMakeLists.txt */; };
+		1FBB78E6637342D6A2813978 /* /Users/alexcarnes/Documents/GitHub/random-step-lab/includes/classcustvar_template.hpp */ = {isa = PBXBuildFile; fileRef = 01630E7FE9784AFC93EC4099 /* /Users/alexcarnes/Documents/GitHub/random-step-lab/includes/classcustvar_template.hpp */; };
+		8AC2802914DD43F89FD1B46B /* /Users/alexcarnes/Documents/GitHub/random-step-lab/step_lab/steplab.h */ = {isa = PBXBuildFile; fileRef = DE719E4C448E40A79AA515C8 /* /Users/alexcarnes/Documents/GitHub/random-step-lab/step_lab/steplab.h */; };
+		C7859F9FCF324679AC12886C /* /Users/alexcarnes/Documents/GitHub/random-step-lab/CMakeLists.txt */ = {isa = PBXBuildFile; fileRef = CB33FD688B8B4F16B9D9511A /* /Users/alexcarnes/Documents/GitHub/random-step-lab/CMakeLists.txt */; };
+		E66D3150B3A242E39DE1BB25 /* /Users/alexcarnes/Documents/GitHub/random-step-lab/includes/singlelink.hpp */ = {isa = PBXBuildFile; fileRef = 706B73B0928D4F059D0CE720 /* /Users/alexcarnes/Documents/GitHub/random-step-lab/includes/singlelink.hpp */; };
+		EEDF586C5F644AB1B7522D16 /* /Users/alexcarnes/Documents/GitHub/random-step-lab/includes/singlelink.hpp */ = {isa = PBXBuildFile; fileRef = 0638682C6A41490788353E8F /* /Users/alexcarnes/Documents/GitHub/random-step-lab/includes/singlelink.hpp */; };
+		F1D9B24CB2EF4238957DD6B9 /* /Users/alexcarnes/Documents/GitHub/random-step-lab/step_lab_main/main.cpp */ = {isa = PBXBuildFile; fileRef = 479123D3E9D446378AD5AB2A /* /Users/alexcarnes/Documents/GitHub/random-step-lab/step_lab_main/main.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXBuildStyle section */
-		32FA0C7D6DAA4970A4A868DE /* MinSizeRel */ = {
-			isa = PBXBuildStyle;
-			buildSettings = {
-				COPY_PHASE_STRIP = NO;
-			};
-			name = MinSizeRel;
-		};
-		69BDB6805FD1488C92CF2990 /* Release */ = {
-			isa = PBXBuildStyle;
-			buildSettings = {
-				COPY_PHASE_STRIP = NO;
-			};
-			name = Release;
-		};
-		A7A51287CF494AAEA1B24E6E /* RelWithDebInfo */ = {
+		74947466B2A8478ABB15922B /* RelWithDebInfo */ = {
 			isa = PBXBuildStyle;
 			buildSettings = {
 				COPY_PHASE_STRIP = NO;
 			};
 			name = RelWithDebInfo;
 		};
-		B8156067DA274A15AC25506A /* Debug */ = {
+		86D52F47DB9243FC95E08EA0 /* Debug */ = {
 			isa = PBXBuildStyle;
 			buildSettings = {
 				COPY_PHASE_STRIP = NO;
 			};
 			name = Debug;
 		};
+		A5DC27EA6FAC43E0AD6C2759 /* MinSizeRel */ = {
+			isa = PBXBuildStyle;
+			buildSettings = {
+				COPY_PHASE_STRIP = NO;
+			};
+			name = MinSizeRel;
+		};
+		B13CD530EC594FE9B0792476 /* Release */ = {
+			isa = PBXBuildStyle;
+			buildSettings = {
+				COPY_PHASE_STRIP = NO;
+			};
+			name = Release;
+		};
 /* End PBXBuildStyle section */
 
 /* Begin PBXContainerItemProxy section */
-		25AC2E592FAE4C838CA57A7D /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 785C33129BEF49BD99101D26 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 8C6F65AC943A5727604622FD;
-			remoteInfo = ZERO_CHECK;
-		};
-		2A096EFA56A54D968D9F0FB1 /* PBXContainerItemProxy */ = {
+		25167B95751C499CB5DD59B2 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 785C33129BEF49BD99101D26 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = ECD3CFB3E8715DB148756AA9;
 			remoteInfo = step_lab_benchmark;
 		};
-		4B9BD808BF404D9DA9ADFAC0 /* PBXContainerItemProxy */ = {
+		7F878401956E4F06B0087D24 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 785C33129BEF49BD99101D26 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 8C6F65AC943A5727604622FD;
 			remoteInfo = ZERO_CHECK;
 		};
-		CABE2276AB7D48C88D4A62B2 /* PBXContainerItemProxy */ = {
+		86F94D96A0E94D2784632092 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 785C33129BEF49BD99101D26 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 8C6F65AC943A5727604622FD;
 			remoteInfo = ZERO_CHECK;
 		};
-		D833B9C7F21C4F5BA8B5EEE5 /* PBXContainerItemProxy */ = {
+		9CB9C3FB18D34E5BB8040ACE /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 785C33129BEF49BD99101D26 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 8CFFB3529E1471FDDA304DDF;
 			remoteInfo = step_lab_run;
 		};
+		EDE7584504084DF3BBD33509 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 785C33129BEF49BD99101D26 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 8C6F65AC943A5727604622FD;
+			remoteInfo = ZERO_CHECK;
+		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		2C962C768C114AF2ADE4C542 /* step_lab_run */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; path = step_lab_run; sourceTree = BUILT_PRODUCTS_DIR; };
-		5B48E2A026434FB8BAD6DB24 /* /Users/alexcarnes/Documents/GitHub/random-step-lab/step_lab_main/main.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = main.cpp; path = step_lab_main/main.cpp; sourceTree = SOURCE_ROOT; };
-		5D635AE6DECC4D9AA67C0354 /* /Users/alexcarnes/Documents/GitHub/random-step-lab/includes/classcustvar_template.hpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.h; fileEncoding = 4; name = classcustvar_template.hpp; path = includes/classcustvar_template.hpp; sourceTree = SOURCE_ROOT; };
-		6CD07BA0419841399C90FBB2 /* step_lab_benchmark */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; path = step_lab_benchmark; sourceTree = BUILT_PRODUCTS_DIR; };
-		74AB101216E2478DBCA6BB36 /* /Users/alexcarnes/Documents/GitHub/random-step-lab/includes/classcustvar_template.hpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.h; fileEncoding = 4; name = classcustvar_template.hpp; path = includes/classcustvar_template.hpp; sourceTree = SOURCE_ROOT; };
-		9BE13B364C354D2994087B01 /* /Users/alexcarnes/Documents/GitHub/random-step-lab/testing/benchmark.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = benchmark.cpp; path = testing/benchmark.cpp; sourceTree = SOURCE_ROOT; };
-		B05FB346CB3043EC847C7085 /* /Users/alexcarnes/Documents/GitHub/random-step-lab/step_lab/steplab.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = steplab.h; path = step_lab/steplab.h; sourceTree = SOURCE_ROOT; };
-		CC6206C86F6F4001898FBD02 /* /Users/alexcarnes/Documents/GitHub/random-step-lab/step_lab/steplab.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = steplab.h; path = step_lab/steplab.h; sourceTree = SOURCE_ROOT; };
-		CEBDB5183E774C39A167ADEF /* /Users/alexcarnes/Documents/GitHub/random-step-lab/includes/singlelink.hpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.h; fileEncoding = 4; name = singlelink.hpp; path = includes/singlelink.hpp; sourceTree = SOURCE_ROOT; };
-		D0376DEE14224D22B7F66EBF /* /Users/alexcarnes/Documents/GitHub/random-step-lab/CMakeLists.txt */ = {isa = PBXFileReference; explicitFileType = sourcecode.text; fileEncoding = 4; name = CMakeLists.txt; path = CMakeLists.txt; sourceTree = SOURCE_ROOT; };
-		DAF5075F18DD427EB72D5BEE /* /Users/alexcarnes/Documents/GitHub/random-step-lab/includes/singlelink.hpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.h; fileEncoding = 4; name = singlelink.hpp; path = includes/singlelink.hpp; sourceTree = SOURCE_ROOT; };
-		E7B1C1896FD44B8196173A5E /* /Users/alexcarnes/Documents/GitHub/random-step-lab/CMakeLists.txt */ = {isa = PBXFileReference; explicitFileType = sourcecode.text; fileEncoding = 4; name = CMakeLists.txt; path = CMakeLists.txt; sourceTree = SOURCE_ROOT; };
-		F20EC5DD127546F489742785 /* /Users/alexcarnes/Documents/GitHub/random-step-lab/CMakeLists.txt */ = {isa = PBXFileReference; explicitFileType = sourcecode.text; fileEncoding = 4; name = CMakeLists.txt; path = CMakeLists.txt; sourceTree = SOURCE_ROOT; };
+		01630E7FE9784AFC93EC4099 /* /Users/alexcarnes/Documents/GitHub/random-step-lab/includes/classcustvar_template.hpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.h; fileEncoding = 4; name = classcustvar_template.hpp; path = includes/classcustvar_template.hpp; sourceTree = SOURCE_ROOT; };
+		0638682C6A41490788353E8F /* /Users/alexcarnes/Documents/GitHub/random-step-lab/includes/singlelink.hpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.h; fileEncoding = 4; name = singlelink.hpp; path = includes/singlelink.hpp; sourceTree = SOURCE_ROOT; };
+		263C8BA5C89E4607B31841E7 /* step_lab_benchmark */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; path = step_lab_benchmark; sourceTree = BUILT_PRODUCTS_DIR; };
+		36215CB9E6EB466280124D65 /* /Users/alexcarnes/Documents/GitHub/random-step-lab/testing/benchmark.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = benchmark.cpp; path = testing/benchmark.cpp; sourceTree = SOURCE_ROOT; };
+		479123D3E9D446378AD5AB2A /* /Users/alexcarnes/Documents/GitHub/random-step-lab/step_lab_main/main.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = main.cpp; path = step_lab_main/main.cpp; sourceTree = SOURCE_ROOT; };
+		706B73B0928D4F059D0CE720 /* /Users/alexcarnes/Documents/GitHub/random-step-lab/includes/singlelink.hpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.h; fileEncoding = 4; name = singlelink.hpp; path = includes/singlelink.hpp; sourceTree = SOURCE_ROOT; };
+		7D5279DBB4DB4D6F86A1C1C0 /* step_lab_run */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; path = step_lab_run; sourceTree = BUILT_PRODUCTS_DIR; };
+		866478F2F8BA40D980337A8E /* /Users/alexcarnes/Documents/GitHub/random-step-lab/includes/classcustvar_template.hpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.h; fileEncoding = 4; name = classcustvar_template.hpp; path = includes/classcustvar_template.hpp; sourceTree = SOURCE_ROOT; };
+		8E512AC052C94DB3AD31E22A /* /Users/alexcarnes/Documents/GitHub/random-step-lab/CMakeLists.txt */ = {isa = PBXFileReference; explicitFileType = sourcecode.text; fileEncoding = 4; name = CMakeLists.txt; path = CMakeLists.txt; sourceTree = SOURCE_ROOT; };
+		B6F46EBEB24745B39C394DE3 /* /Users/alexcarnes/Documents/GitHub/random-step-lab/step_lab/steplab.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = steplab.h; path = step_lab/steplab.h; sourceTree = SOURCE_ROOT; };
+		CB33FD688B8B4F16B9D9511A /* /Users/alexcarnes/Documents/GitHub/random-step-lab/CMakeLists.txt */ = {isa = PBXFileReference; explicitFileType = sourcecode.text; fileEncoding = 4; name = CMakeLists.txt; path = CMakeLists.txt; sourceTree = SOURCE_ROOT; };
+		DE719E4C448E40A79AA515C8 /* /Users/alexcarnes/Documents/GitHub/random-step-lab/step_lab/steplab.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = steplab.h; path = step_lab/steplab.h; sourceTree = SOURCE_ROOT; };
+		F646C2799FBB4F37BED1CF0E /* /Users/alexcarnes/Documents/GitHub/random-step-lab/CMakeLists.txt */ = {isa = PBXFileReference; explicitFileType = sourcecode.text; fileEncoding = 4; name = CMakeLists.txt; path = CMakeLists.txt; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		40CB10F56E1C4C53ACB79F8C /* Frameworks */ = {
+		48EC0924612C463A8735364F /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		F08A75B8571E4EFA8D2D6A7B /* Frameworks */ = {
+		A942CA2A5CAD473BA573F587 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -150,111 +150,111 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		079B8CAEDB0E4E1F8511B3D7 /* step_lab_run */ = {
+		0B842DBCD36B4341B3C16B71 /* ALL_BUILD */ = {
 			isa = PBXGroup;
 			children = (
-				95C11B8DE4814F3781B77571 /* Header Files */,
-				B5FDB68294CF4492AA1C4CC1 /* Source Files */,
-				E7B1C1896FD44B8196173A5E /* /Users/alexcarnes/Documents/GitHub/random-step-lab/CMakeLists.txt */,
-			);
-			name = step_lab_run;
-			sourceTree = "<group>";
-		};
-		2C874D37C43543ECAFB9F4F6 /* Resources */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			name = Resources;
-			sourceTree = "<group>";
-		};
-		33A9D8641D0D48E5954000BF /* ALL_BUILD */ = {
-			isa = PBXGroup;
-			children = (
-				9C770431C2054431A80CE792 /* CMake Rules */,
-				D0376DEE14224D22B7F66EBF /* /Users/alexcarnes/Documents/GitHub/random-step-lab/CMakeLists.txt */,
+				BB3F0CD4FA5C4DA1AE131825 /* CMake Rules */,
+				8E512AC052C94DB3AD31E22A /* /Users/alexcarnes/Documents/GitHub/random-step-lab/CMakeLists.txt */,
 			);
 			name = ALL_BUILD;
 			sourceTree = "<group>";
 		};
-		4B23C1AE8C1B4FBE94F8F9A7 /* Source Files */ = {
-			isa = PBXGroup;
-			children = (
-				9BE13B364C354D2994087B01 /* /Users/alexcarnes/Documents/GitHub/random-step-lab/testing/benchmark.cpp */,
-			);
-			name = "Source Files";
-			sourceTree = "<group>";
-		};
-		4FFC3950E78C4855961E4756 /* step_lab_benchmark */ = {
-			isa = PBXGroup;
-			children = (
-				ED7B190F6F694FC6ACDDADBC /* Header Files */,
-				4B23C1AE8C1B4FBE94F8F9A7 /* Source Files */,
-				F20EC5DD127546F489742785 /* /Users/alexcarnes/Documents/GitHub/random-step-lab/CMakeLists.txt */,
-			);
-			name = step_lab_benchmark;
-			sourceTree = "<group>";
-		};
-		81F804DF8A1945768CA92F2D /* Frameworks */ = {
+		134BFE7AD66444DAA0005373 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		95C11B8DE4814F3781B77571 /* Header Files */ = {
+		15FB032D729149EEB74D4A88 /* Source Files */ = {
 			isa = PBXGroup;
 			children = (
-				5D635AE6DECC4D9AA67C0354 /* /Users/alexcarnes/Documents/GitHub/random-step-lab/includes/classcustvar_template.hpp */,
-				CEBDB5183E774C39A167ADEF /* /Users/alexcarnes/Documents/GitHub/random-step-lab/includes/singlelink.hpp */,
-				CC6206C86F6F4001898FBD02 /* /Users/alexcarnes/Documents/GitHub/random-step-lab/step_lab/steplab.h */,
+				479123D3E9D446378AD5AB2A /* /Users/alexcarnes/Documents/GitHub/random-step-lab/step_lab_main/main.cpp */,
+			);
+			name = "Source Files";
+			sourceTree = "<group>";
+		};
+		46D3339CAE55483498F0DC44 /* Header Files */ = {
+			isa = PBXGroup;
+			children = (
+				01630E7FE9784AFC93EC4099 /* /Users/alexcarnes/Documents/GitHub/random-step-lab/includes/classcustvar_template.hpp */,
+				0638682C6A41490788353E8F /* /Users/alexcarnes/Documents/GitHub/random-step-lab/includes/singlelink.hpp */,
+				B6F46EBEB24745B39C394DE3 /* /Users/alexcarnes/Documents/GitHub/random-step-lab/step_lab/steplab.h */,
 			);
 			name = "Header Files";
 			sourceTree = "<group>";
 		};
-		9C770431C2054431A80CE792 /* CMake Rules */ = {
+		6F796D3A31EF4FC59EF2702D /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				263C8BA5C89E4607B31841E7 /* step_lab_benchmark */,
+				7D5279DBB4DB4D6F86A1C1C0 /* step_lab_run */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		778C67C94CF248EAA55B5A0D /* Header Files */ = {
+			isa = PBXGroup;
+			children = (
+				866478F2F8BA40D980337A8E /* /Users/alexcarnes/Documents/GitHub/random-step-lab/includes/classcustvar_template.hpp */,
+				706B73B0928D4F059D0CE720 /* /Users/alexcarnes/Documents/GitHub/random-step-lab/includes/singlelink.hpp */,
+				DE719E4C448E40A79AA515C8 /* /Users/alexcarnes/Documents/GitHub/random-step-lab/step_lab/steplab.h */,
+			);
+			name = "Header Files";
+			sourceTree = "<group>";
+		};
+		848DC4B7596B46969BB1C2E0 /* Source Files */ = {
+			isa = PBXGroup;
+			children = (
+				36215CB9E6EB466280124D65 /* /Users/alexcarnes/Documents/GitHub/random-step-lab/testing/benchmark.cpp */,
+			);
+			name = "Source Files";
+			sourceTree = "<group>";
+		};
+		BB3F0CD4FA5C4DA1AE131825 /* CMake Rules */ = {
 			isa = PBXGroup;
 			children = (
 			);
 			name = "CMake Rules";
 			sourceTree = "<group>";
 		};
-		B0EE8ADB3FA041098BDD91E5 /* Products */ = {
+		C010C983D73547F59E7B5FA5 /* step_lab_benchmark */ = {
 			isa = PBXGroup;
 			children = (
-				6CD07BA0419841399C90FBB2 /* step_lab_benchmark */,
-				2C962C768C114AF2ADE4C542 /* step_lab_run */,
+				778C67C94CF248EAA55B5A0D /* Header Files */,
+				848DC4B7596B46969BB1C2E0 /* Source Files */,
+				CB33FD688B8B4F16B9D9511A /* /Users/alexcarnes/Documents/GitHub/random-step-lab/CMakeLists.txt */,
 			);
-			name = Products;
+			name = step_lab_benchmark;
 			sourceTree = "<group>";
 		};
-		B5FDB68294CF4492AA1C4CC1 /* Source Files */ = {
+		DF630C756D99427AAA92EA81 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				5B48E2A026434FB8BAD6DB24 /* /Users/alexcarnes/Documents/GitHub/random-step-lab/step_lab_main/main.cpp */,
 			);
-			name = "Source Files";
+			name = Resources;
 			sourceTree = "<group>";
 		};
-		E73AB0C7EDA94CC2B3CCEC29 = {
+		EBAB80B525B04BDF86D7E514 = {
 			isa = PBXGroup;
 			children = (
-				079B8CAEDB0E4E1F8511B3D7 /* step_lab_run */,
-				4FFC3950E78C4855961E4756 /* step_lab_benchmark */,
-				33A9D8641D0D48E5954000BF /* ALL_BUILD */,
-				B0EE8ADB3FA041098BDD91E5 /* Products */,
-				81F804DF8A1945768CA92F2D /* Frameworks */,
-				2C874D37C43543ECAFB9F4F6 /* Resources */,
+				F3FF7DB0F4724165BD06541C /* step_lab_run */,
+				C010C983D73547F59E7B5FA5 /* step_lab_benchmark */,
+				0B842DBCD36B4341B3C16B71 /* ALL_BUILD */,
+				6F796D3A31EF4FC59EF2702D /* Products */,
+				134BFE7AD66444DAA0005373 /* Frameworks */,
+				DF630C756D99427AAA92EA81 /* Resources */,
 			);
 			sourceTree = "<group>";
 		};
-		ED7B190F6F694FC6ACDDADBC /* Header Files */ = {
+		F3FF7DB0F4724165BD06541C /* step_lab_run */ = {
 			isa = PBXGroup;
 			children = (
-				74AB101216E2478DBCA6BB36 /* /Users/alexcarnes/Documents/GitHub/random-step-lab/includes/classcustvar_template.hpp */,
-				DAF5075F18DD427EB72D5BEE /* /Users/alexcarnes/Documents/GitHub/random-step-lab/includes/singlelink.hpp */,
-				B05FB346CB3043EC847C7085 /* /Users/alexcarnes/Documents/GitHub/random-step-lab/step_lab/steplab.h */,
+				46D3339CAE55483498F0DC44 /* Header Files */,
+				15FB032D729149EEB74D4A88 /* Source Files */,
+				F646C2799FBB4F37BED1CF0E /* /Users/alexcarnes/Documents/GitHub/random-step-lab/CMakeLists.txt */,
 			);
-			name = "Header Files";
+			name = step_lab_run;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -262,36 +262,36 @@
 /* Begin PBXNativeTarget section */
 		8CFFB3529E1471FDDA304DDF /* step_lab_run */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 92FAB1202A0D43E7A053F07B /* Build configuration list for PBXNativeTarget "step_lab_run" */;
+			buildConfigurationList = 3211853456CC4312913A5D5C /* Build configuration list for PBXNativeTarget "step_lab_run" */;
 			buildPhases = (
-				C00977357D7047C18355D990 /* Sources */,
-				F08A75B8571E4EFA8D2D6A7B /* Frameworks */,
+				6DF5D544D3944E4AB016788F /* Sources */,
+				48EC0924612C463A8735364F /* Frameworks */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				F05F908D4FC94B748CCC4058 /* PBXTargetDependency */,
+				14F2191FAC04471C93857C53 /* PBXTargetDependency */,
 			);
 			name = step_lab_run;
 			productName = step_lab_run;
-			productReference = 2C962C768C114AF2ADE4C542 /* step_lab_run */;
+			productReference = 7D5279DBB4DB4D6F86A1C1C0 /* step_lab_run */;
 			productType = "com.apple.product-type.tool";
 		};
 		ECD3CFB3E8715DB148756AA9 /* step_lab_benchmark */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F5182599E88948129FE599A8 /* Build configuration list for PBXNativeTarget "step_lab_benchmark" */;
+			buildConfigurationList = E09D7CBAE1804537A3E77553 /* Build configuration list for PBXNativeTarget "step_lab_benchmark" */;
 			buildPhases = (
-				D9398EB08B2D4568A5A302F7 /* Sources */,
-				40CB10F56E1C4C53ACB79F8C /* Frameworks */,
+				9B5ED93671E8428FB7F16F23 /* Sources */,
+				A942CA2A5CAD473BA573F587 /* Frameworks */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				41A6F71503754E2893B9F003 /* PBXTargetDependency */,
+				2A923AF4739042AF84ECE315 /* PBXTargetDependency */,
 			);
 			name = step_lab_benchmark;
 			productName = step_lab_benchmark;
-			productReference = 6CD07BA0419841399C90FBB2 /* step_lab_benchmark */;
+			productReference = 263C8BA5C89E4607B31841E7 /* step_lab_benchmark */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -303,18 +303,18 @@
 				BuildIndependentTargetsInParallel = YES;
 				LastUpgradeCheck = 1600;
 			};
-			buildConfigurationList = A047A17CF86F4A118A236543 /* Build configuration list for PBXProject "step_lab" */;
+			buildConfigurationList = 38AA2ABBB46F4FE0A8233A27 /* Build configuration list for PBXProject "step_lab" */;
 			buildSettings = {
 			};
 			buildStyles = (
-				B8156067DA274A15AC25506A /* Debug */,
-				69BDB6805FD1488C92CF2990 /* Release */,
-				32FA0C7D6DAA4970A4A868DE /* MinSizeRel */,
-				A7A51287CF494AAEA1B24E6E /* RelWithDebInfo */,
+				86D52F47DB9243FC95E08EA0 /* Debug */,
+				B13CD530EC594FE9B0792476 /* Release */,
+				A5DC27EA6FAC43E0AD6C2759 /* MinSizeRel */,
+				74947466B2A8478ABB15922B /* RelWithDebInfo */,
 			);
 			compatibilityVersion = "Xcode 3.2";
 			hasScannedForEncodings = 0;
-			mainGroup = E73AB0C7EDA94CC2B3CCEC29;
+			mainGroup = EBAB80B525B04BDF86D7E514;
 			projectDirPath = .;
 			projectRoot = "";
 			targets = (
@@ -426,80 +426,54 @@ fi
 /* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		C00977357D7047C18355D990 /* Sources */ = {
+		6DF5D544D3944E4AB016788F /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EFBF1053B20343EFB97F979F /* /Users/alexcarnes/Documents/GitHub/random-step-lab/step_lab_main/main.cpp */,
+				F1D9B24CB2EF4238957DD6B9 /* /Users/alexcarnes/Documents/GitHub/random-step-lab/step_lab_main/main.cpp */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		D9398EB08B2D4568A5A302F7 /* Sources */ = {
+		9B5ED93671E8428FB7F16F23 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9CA60E58CBDD49B4899138BB /* /Users/alexcarnes/Documents/GitHub/random-step-lab/testing/benchmark.cpp */,
+				16EFA57E2E454BA882FB3B93 /* /Users/alexcarnes/Documents/GitHub/random-step-lab/testing/benchmark.cpp */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		41A6F71503754E2893B9F003 /* PBXTargetDependency */ = {
+		14F2191FAC04471C93857C53 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = 8C6F65AC943A5727604622FD /* ZERO_CHECK */;
-			targetProxy = CABE2276AB7D48C88D4A62B2 /* PBXContainerItemProxy */;
+			targetProxy = EDE7584504084DF3BBD33509 /* PBXContainerItemProxy */;
 		};
-		E12EA150D1214899844FB4AB /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = 8CFFB3529E1471FDDA304DDF /* step_lab_run */;
-			targetProxy = D833B9C7F21C4F5BA8B5EEE5 /* PBXContainerItemProxy */;
-		};
-		F05F908D4FC94B748CCC4058 /* PBXTargetDependency */ = {
+		2A923AF4739042AF84ECE315 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = 8C6F65AC943A5727604622FD /* ZERO_CHECK */;
-			targetProxy = 4B9BD808BF404D9DA9ADFAC0 /* PBXContainerItemProxy */;
+			targetProxy = 86F94D96A0E94D2784632092 /* PBXContainerItemProxy */;
 		};
-		F3D8A3451060418B99A423E1 /* PBXTargetDependency */ = {
+		5AB26E99DA074CAE8F82DB41 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 8C6F65AC943A5727604622FD /* ZERO_CHECK */;
+			targetProxy = 7F878401956E4F06B0087D24 /* PBXContainerItemProxy */;
+		};
+		767710EA5689487CAF57D949 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = ECD3CFB3E8715DB148756AA9 /* step_lab_benchmark */;
-			targetProxy = 2A096EFA56A54D968D9F0FB1 /* PBXContainerItemProxy */;
+			targetProxy = 25167B95751C499CB5DD59B2 /* PBXContainerItemProxy */;
 		};
-		F570D62E24DD4F52BB8F9F32 /* PBXTargetDependency */ = {
+		D383F4698F0D43C5846F0D52 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 8C6F65AC943A5727604622FD /* ZERO_CHECK */;
-			targetProxy = 25AC2E592FAE4C838CA57A7D /* PBXContainerItemProxy */;
+			target = 8CFFB3529E1471FDDA304DDF /* step_lab_run */;
+			targetProxy = 9CB9C3FB18D34E5BB8040ACE /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		0CD86FE08D9E4F5795059B58 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_SEARCH_USER_PATHS = NO;
-				COMBINE_HIDPI_IMAGES = YES;
-				CONFIGURATION_BUILD_DIR = "/Users/alexcarnes/Documents/GitHub/random-step-lab/Release";
-				EXECUTABLE_PREFIX = "";
-				EXECUTABLE_SUFFIX = "";
-				GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
-				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
-				GCC_OPTIMIZATION_LEVEL = 3;
-				GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'","$(inherited)");
-				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
-				HEADER_SEARCH_PATHS = (/users/alexcarnes/benchmark/include,"/Users/alexcarnes/Documents/GitHub/random-step-lab/includes","/Users/alexcarnes/Documents/GitHub/random-step-lab/step_lab","/Users/alexcarnes/Documents/GitHub/random-step-lab/step_lab_main","/Users/alexcarnes/Documents/GitHub/random-step-lab/testing",/users/alexcarnes/benchmark,"$(inherited)");
-				INSTALL_PATH = "";
-				OTHER_CPLUSPLUSFLAGS = "    -DNDEBUG '-std=gnu++11' ";
-				OTHER_LDFLAGS = (" -Wl,-search_paths_first -Wl,-headerpad_max_install_names",/users/alexcarnes/benchmark/build_static/src/libbenchmark_main.a,"$(inherited)");
-				OTHER_REZFLAGS = "";
-				PRODUCT_NAME = step_lab_benchmark;
-				SECTORDER_FLAGS = "";
-				TARGET_TEMP_DIR = "/Users/alexcarnes/Documents/GitHub/random-step-lab/build/step_lab_benchmark.build/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)";
-				USE_HEADERMAP = NO;
-				WARNING_CFLAGS = ("$(inherited)");
-			};
-			name = Release;
-		};
-		37020F532A8E452D8FF07EF1 /* Release */ = {
+		022E7DCE87C74016B15058FF /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -519,167 +493,7 @@ fi
 			};
 			name = Release;
 		};
-		374186851419494789AAB192 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_SEARCH_USER_PATHS = NO;
-				COMBINE_HIDPI_IMAGES = YES;
-				CONFIGURATION_BUILD_DIR = "/Users/alexcarnes/Documents/GitHub/random-step-lab/Debug";
-				EXECUTABLE_PREFIX = "";
-				EXECUTABLE_SUFFIX = "";
-				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
-				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
-				GCC_OPTIMIZATION_LEVEL = 0;
-				GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'","$(inherited)");
-				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
-				HEADER_SEARCH_PATHS = (/users/alexcarnes/benchmark/include,"/Users/alexcarnes/Documents/GitHub/random-step-lab/includes","/Users/alexcarnes/Documents/GitHub/random-step-lab/step_lab","/Users/alexcarnes/Documents/GitHub/random-step-lab/step_lab_main","/Users/alexcarnes/Documents/GitHub/random-step-lab/testing",/users/alexcarnes/benchmark,"$(inherited)");
-				INSTALL_PATH = "";
-				OTHER_CPLUSPLUSFLAGS = "   '-std=gnu++11' ";
-				OTHER_LDFLAGS = (" -Wl,-search_paths_first -Wl,-headerpad_max_install_names","$(inherited)");
-				OTHER_REZFLAGS = "";
-				PRODUCT_NAME = step_lab_run;
-				SECTORDER_FLAGS = "";
-				TARGET_TEMP_DIR = "/Users/alexcarnes/Documents/GitHub/random-step-lab/build/step_lab_run.build/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)";
-				USE_HEADERMAP = NO;
-				WARNING_CFLAGS = ("$(inherited)");
-			};
-			name = Debug;
-		};
-		410C26370D624A37BFF1B451 /* MinSizeRel */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ARCHS = "$(NATIVE_ARCH_ACTUAL)";
-				ONLY_ACTIVE_ARCH = YES;
-				SDKROOT = /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SYMROOT = "/Users/alexcarnes/Documents/GitHub/random-step-lab/build";
-			};
-			name = MinSizeRel;
-		};
-		6B562369DC9A43E597078A85 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_SEARCH_USER_PATHS = NO;
-				COMBINE_HIDPI_IMAGES = YES;
-				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
-				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
-				GCC_OPTIMIZATION_LEVEL = 0;
-				GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'","$(inherited)");
-				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
-				INSTALL_PATH = "";
-				OTHER_LDFLAGS = ("","$(inherited)");
-				OTHER_REZFLAGS = "";
-				PRODUCT_NAME = ZERO_CHECK;
-				SECTORDER_FLAGS = "";
-				USE_HEADERMAP = NO;
-				WARNING_CFLAGS = ("$(inherited)");
-			};
-			name = Release;
-		};
-		6BEE968B925445598DB1EC8A /* MinSizeRel */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_SEARCH_USER_PATHS = NO;
-				COMBINE_HIDPI_IMAGES = YES;
-				CONFIGURATION_BUILD_DIR = "/Users/alexcarnes/Documents/GitHub/random-step-lab/MinSizeRel";
-				EXECUTABLE_PREFIX = "";
-				EXECUTABLE_SUFFIX = "";
-				GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
-				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
-				GCC_OPTIMIZATION_LEVEL = s;
-				GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'","$(inherited)");
-				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
-				HEADER_SEARCH_PATHS = (/users/alexcarnes/benchmark/include,"/Users/alexcarnes/Documents/GitHub/random-step-lab/includes","/Users/alexcarnes/Documents/GitHub/random-step-lab/step_lab","/Users/alexcarnes/Documents/GitHub/random-step-lab/step_lab_main","/Users/alexcarnes/Documents/GitHub/random-step-lab/testing",/users/alexcarnes/benchmark,"$(inherited)");
-				INSTALL_PATH = "";
-				OTHER_CPLUSPLUSFLAGS = "    -DNDEBUG '-std=gnu++11' ";
-				OTHER_LDFLAGS = (" -Wl,-search_paths_first -Wl,-headerpad_max_install_names",/users/alexcarnes/benchmark/build_static/src/libbenchmark_main.a,"$(inherited)");
-				OTHER_REZFLAGS = "";
-				PRODUCT_NAME = step_lab_benchmark;
-				SECTORDER_FLAGS = "";
-				TARGET_TEMP_DIR = "/Users/alexcarnes/Documents/GitHub/random-step-lab/build/step_lab_benchmark.build/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)";
-				USE_HEADERMAP = NO;
-				WARNING_CFLAGS = ("$(inherited)");
-			};
-			name = MinSizeRel;
-		};
-		766EECAA71384CEEB12E45D3 /* RelWithDebInfo */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_SEARCH_USER_PATHS = NO;
-				COMBINE_HIDPI_IMAGES = YES;
-				CONFIGURATION_BUILD_DIR = "/Users/alexcarnes/Documents/GitHub/random-step-lab/RelWithDebInfo";
-				EXECUTABLE_PREFIX = "";
-				EXECUTABLE_SUFFIX = "";
-				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
-				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
-				GCC_OPTIMIZATION_LEVEL = 2;
-				GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'","$(inherited)");
-				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
-				HEADER_SEARCH_PATHS = (/users/alexcarnes/benchmark/include,"/Users/alexcarnes/Documents/GitHub/random-step-lab/includes","/Users/alexcarnes/Documents/GitHub/random-step-lab/step_lab","/Users/alexcarnes/Documents/GitHub/random-step-lab/step_lab_main","/Users/alexcarnes/Documents/GitHub/random-step-lab/testing",/users/alexcarnes/benchmark,"$(inherited)");
-				INSTALL_PATH = "";
-				OTHER_CPLUSPLUSFLAGS = "       -DNDEBUG '-std=gnu++11' ";
-				OTHER_LDFLAGS = (" -Wl,-search_paths_first -Wl,-headerpad_max_install_names","$(inherited)");
-				OTHER_REZFLAGS = "";
-				PRODUCT_NAME = step_lab_run;
-				SECTORDER_FLAGS = "";
-				TARGET_TEMP_DIR = "/Users/alexcarnes/Documents/GitHub/random-step-lab/build/step_lab_run.build/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)";
-				USE_HEADERMAP = NO;
-				WARNING_CFLAGS = ("$(inherited)");
-			};
-			name = RelWithDebInfo;
-		};
-		8A56D7B4F82048A3866AAFA1 /* RelWithDebInfo */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_SEARCH_USER_PATHS = NO;
-				COMBINE_HIDPI_IMAGES = YES;
-				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
-				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
-				GCC_OPTIMIZATION_LEVEL = 0;
-				GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'","$(inherited)");
-				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
-				INSTALL_PATH = "";
-				OTHER_LDFLAGS = ("","$(inherited)");
-				OTHER_REZFLAGS = "";
-				PRODUCT_NAME = ALL_BUILD;
-				SECTORDER_FLAGS = "";
-				USE_HEADERMAP = NO;
-				WARNING_CFLAGS = ("$(inherited)");
-			};
-			name = RelWithDebInfo;
-		};
-		8F97E81991AF49B48C43345B /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_SEARCH_USER_PATHS = NO;
-				COMBINE_HIDPI_IMAGES = YES;
-				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
-				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
-				GCC_OPTIMIZATION_LEVEL = 0;
-				GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'","$(inherited)");
-				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
-				INSTALL_PATH = "";
-				OTHER_LDFLAGS = ("","$(inherited)");
-				OTHER_REZFLAGS = "";
-				PRODUCT_NAME = ZERO_CHECK;
-				SECTORDER_FLAGS = "";
-				USE_HEADERMAP = NO;
-				WARNING_CFLAGS = ("$(inherited)");
-			};
-			name = Debug;
-		};
-		933681F14EAD4AE09EC14C25 /* RelWithDebInfo */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ARCHS = "$(NATIVE_ARCH_ACTUAL)";
-				ONLY_ACTIVE_ARCH = YES;
-				SDKROOT = /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SYMROOT = "/Users/alexcarnes/Documents/GitHub/random-step-lab/build";
-			};
-			name = RelWithDebInfo;
-		};
-		97131E7BE74E4F6DBA500FA8 /* RelWithDebInfo */ = {
+		1175D3FACED1417BA8732AB7 /* RelWithDebInfo */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -705,7 +519,73 @@ fi
 			};
 			name = RelWithDebInfo;
 		};
-		974884B885EA4B85B88DF6B4 /* MinSizeRel */ = {
+		14848C3C66B54141B561A4E1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'","$(inherited)");
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				INSTALL_PATH = "";
+				OTHER_LDFLAGS = ("","$(inherited)");
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = ZERO_CHECK;
+				SECTORDER_FLAGS = "";
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = ("$(inherited)");
+			};
+			name = Debug;
+		};
+		1CDFC7D7A3AB465398C893D0 /* RelWithDebInfo */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'","$(inherited)");
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				INSTALL_PATH = "";
+				OTHER_LDFLAGS = ("","$(inherited)");
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = ALL_BUILD;
+				SECTORDER_FLAGS = "";
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = ("$(inherited)");
+			};
+			name = RelWithDebInfo;
+		};
+		1F7D3BE22FB04ACB86E2040C /* RelWithDebInfo */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COMBINE_HIDPI_IMAGES = YES;
+				CONFIGURATION_BUILD_DIR = "/Users/alexcarnes/Documents/GitHub/random-step-lab/RelWithDebInfo";
+				EXECUTABLE_PREFIX = "";
+				EXECUTABLE_SUFFIX = "";
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 2;
+				GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'","$(inherited)");
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				HEADER_SEARCH_PATHS = (/users/alexcarnes/benchmark/include,"/Users/alexcarnes/Documents/GitHub/random-step-lab/includes","/Users/alexcarnes/Documents/GitHub/random-step-lab/step_lab","/Users/alexcarnes/Documents/GitHub/random-step-lab/step_lab_main","/Users/alexcarnes/Documents/GitHub/random-step-lab/testing",/users/alexcarnes/benchmark,"$(inherited)");
+				INSTALL_PATH = "";
+				OTHER_CPLUSPLUSFLAGS = "       -DNDEBUG '-std=gnu++11' ";
+				OTHER_LDFLAGS = (" -Wl,-search_paths_first -Wl,-headerpad_max_install_names","$(inherited)");
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = step_lab_run;
+				SECTORDER_FLAGS = "";
+				TARGET_TEMP_DIR = "/Users/alexcarnes/Documents/GitHub/random-step-lab/build/step_lab_run.build/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)";
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = ("$(inherited)");
+			};
+			name = RelWithDebInfo;
+		};
+		220DCE0606AE4544BDD7D6A3 /* MinSizeRel */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -725,7 +605,33 @@ fi
 			};
 			name = MinSizeRel;
 		};
-		A7813359BC29451EA4A5DEF0 /* RelWithDebInfo */ = {
+		298B4A22FB1B47B882593DBB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COMBINE_HIDPI_IMAGES = YES;
+				CONFIGURATION_BUILD_DIR = "/Users/alexcarnes/Documents/GitHub/random-step-lab/Release";
+				EXECUTABLE_PREFIX = "";
+				EXECUTABLE_SUFFIX = "";
+				GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 3;
+				GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'","$(inherited)");
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				HEADER_SEARCH_PATHS = (/users/alexcarnes/benchmark/include,"/Users/alexcarnes/Documents/GitHub/random-step-lab/includes","/Users/alexcarnes/Documents/GitHub/random-step-lab/step_lab","/Users/alexcarnes/Documents/GitHub/random-step-lab/step_lab_main","/Users/alexcarnes/Documents/GitHub/random-step-lab/testing",/users/alexcarnes/benchmark,"$(inherited)");
+				INSTALL_PATH = "";
+				OTHER_CPLUSPLUSFLAGS = "    -DNDEBUG '-std=gnu++11' ";
+				OTHER_LDFLAGS = (" -Wl,-search_paths_first -Wl,-headerpad_max_install_names",/users/alexcarnes/benchmark/build_static/src/libbenchmark_main.a,"$(inherited)");
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = step_lab_benchmark;
+				SECTORDER_FLAGS = "";
+				TARGET_TEMP_DIR = "/Users/alexcarnes/Documents/GitHub/random-step-lab/build/step_lab_benchmark.build/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)";
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = ("$(inherited)");
+			};
+			name = Release;
+		};
+		30B60AEDE09D4C9EBBD1CA6A /* MinSizeRel */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -743,9 +649,76 @@ fi
 				USE_HEADERMAP = NO;
 				WARNING_CFLAGS = ("$(inherited)");
 			};
-			name = RelWithDebInfo;
+			name = MinSizeRel;
 		};
-		BDCE7297492F4AC28D287329 /* Release */ = {
+		34870626790142C3A47D1C8A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'","$(inherited)");
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				INSTALL_PATH = "";
+				OTHER_LDFLAGS = ("","$(inherited)");
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = ALL_BUILD;
+				SECTORDER_FLAGS = "";
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = ("$(inherited)");
+			};
+			name = Debug;
+		};
+		39664A79EC714AFBA16376FD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(NATIVE_ARCH_ACTUAL)";
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SYMROOT = "/Users/alexcarnes/Documents/GitHub/random-step-lab/build";
+			};
+			name = Release;
+		};
+		7E6EEEAE005C41F19ACE97AC /* MinSizeRel */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COMBINE_HIDPI_IMAGES = YES;
+				CONFIGURATION_BUILD_DIR = "/Users/alexcarnes/Documents/GitHub/random-step-lab/MinSizeRel";
+				EXECUTABLE_PREFIX = "";
+				EXECUTABLE_SUFFIX = "";
+				GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = s;
+				GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'","$(inherited)");
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				HEADER_SEARCH_PATHS = (/users/alexcarnes/benchmark/include,"/Users/alexcarnes/Documents/GitHub/random-step-lab/includes","/Users/alexcarnes/Documents/GitHub/random-step-lab/step_lab","/Users/alexcarnes/Documents/GitHub/random-step-lab/step_lab_main","/Users/alexcarnes/Documents/GitHub/random-step-lab/testing",/users/alexcarnes/benchmark,"$(inherited)");
+				INSTALL_PATH = "";
+				OTHER_CPLUSPLUSFLAGS = "    -DNDEBUG '-std=gnu++11' ";
+				OTHER_LDFLAGS = (" -Wl,-search_paths_first -Wl,-headerpad_max_install_names",/users/alexcarnes/benchmark/build_static/src/libbenchmark_main.a,"$(inherited)");
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = step_lab_benchmark;
+				SECTORDER_FLAGS = "";
+				TARGET_TEMP_DIR = "/Users/alexcarnes/Documents/GitHub/random-step-lab/build/step_lab_benchmark.build/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)";
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = ("$(inherited)");
+			};
+			name = MinSizeRel;
+		};
+		8E063F2FF38B402499A0C725 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(NATIVE_ARCH_ACTUAL)";
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk;
+				SYMROOT = "/Users/alexcarnes/Documents/GitHub/random-step-lab/build";
+			};
+			name = Debug;
+		};
+		A29064C31A794E8DA31C6C7A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -771,7 +744,18 @@ fi
 			};
 			name = Release;
 		};
-		C2839B02A6F94860967E925B /* Debug */ = {
+		DAED1EA9689B410589908EA4 /* MinSizeRel */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(NATIVE_ARCH_ACTUAL)";
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SYMROOT = "/Users/alexcarnes/Documents/GitHub/random-step-lab/build";
+			};
+			name = MinSizeRel;
+		};
+		DB199FF6D8C6490EA0B3D8F0 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -784,14 +768,34 @@ fi
 				INSTALL_PATH = "";
 				OTHER_LDFLAGS = ("","$(inherited)");
 				OTHER_REZFLAGS = "";
-				PRODUCT_NAME = ALL_BUILD;
+				PRODUCT_NAME = ZERO_CHECK;
 				SECTORDER_FLAGS = "";
 				USE_HEADERMAP = NO;
 				WARNING_CFLAGS = ("$(inherited)");
 			};
-			name = Debug;
+			name = Release;
 		};
-		D6AACC4237AF456384108F02 /* Release */ = {
+		E1C406B191984427819BED93 /* RelWithDebInfo */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'","$(inherited)");
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				INSTALL_PATH = "";
+				OTHER_LDFLAGS = ("","$(inherited)");
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = ZERO_CHECK;
+				SECTORDER_FLAGS = "";
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = ("$(inherited)");
+			};
+			name = RelWithDebInfo;
+		};
+		E5864A708F60462EBE1460D5 /* RelWithDebInfo */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ARCHS = "$(NATIVE_ARCH_ACTUAL)";
@@ -800,19 +804,9 @@ fi
 				SWIFT_COMPILATION_MODE = wholemodule;
 				SYMROOT = "/Users/alexcarnes/Documents/GitHub/random-step-lab/build";
 			};
-			name = Release;
+			name = RelWithDebInfo;
 		};
-		DD710C1A94F14BBEBD2712CE /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ARCHS = "$(NATIVE_ARCH_ACTUAL)";
-				ONLY_ACTIVE_ARCH = YES;
-				SDKROOT = /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk;
-				SYMROOT = "/Users/alexcarnes/Documents/GitHub/random-step-lab/build";
-			};
-			name = Debug;
-		};
-		DFDC05E938C94635A33189B8 /* MinSizeRel */ = {
+		F02CC8BFE6EC42F19C9A56A9 /* MinSizeRel */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -838,7 +832,33 @@ fi
 			};
 			name = MinSizeRel;
 		};
-		FBEBCE87F9E74CC99B3ADD1E /* Debug */ = {
+		F1EC38CBBA5941C684EB28EE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COMBINE_HIDPI_IMAGES = YES;
+				CONFIGURATION_BUILD_DIR = "/Users/alexcarnes/Documents/GitHub/random-step-lab/Debug";
+				EXECUTABLE_PREFIX = "";
+				EXECUTABLE_SUFFIX = "";
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'","$(inherited)");
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				HEADER_SEARCH_PATHS = (/users/alexcarnes/benchmark/include,"/Users/alexcarnes/Documents/GitHub/random-step-lab/includes","/Users/alexcarnes/Documents/GitHub/random-step-lab/step_lab","/Users/alexcarnes/Documents/GitHub/random-step-lab/step_lab_main","/Users/alexcarnes/Documents/GitHub/random-step-lab/testing",/users/alexcarnes/benchmark,"$(inherited)");
+				INSTALL_PATH = "";
+				OTHER_CPLUSPLUSFLAGS = "   '-std=gnu++11' ";
+				OTHER_LDFLAGS = (" -Wl,-search_paths_first -Wl,-headerpad_max_install_names","$(inherited)");
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = step_lab_run;
+				SECTORDER_FLAGS = "";
+				TARGET_TEMP_DIR = "/Users/alexcarnes/Documents/GitHub/random-step-lab/build/step_lab_run.build/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)";
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = ("$(inherited)");
+			};
+			name = Debug;
+		};
+		F41B9B47BECE4279AFCD2367 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -863,81 +883,61 @@ fi
 				WARNING_CFLAGS = ("$(inherited)");
 			};
 			name = Debug;
-		};
-		FDA6D863175643AD8C439449 /* MinSizeRel */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_SEARCH_USER_PATHS = NO;
-				COMBINE_HIDPI_IMAGES = YES;
-				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
-				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
-				GCC_OPTIMIZATION_LEVEL = 0;
-				GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'","$(inherited)");
-				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
-				INSTALL_PATH = "";
-				OTHER_LDFLAGS = ("","$(inherited)");
-				OTHER_REZFLAGS = "";
-				PRODUCT_NAME = ZERO_CHECK;
-				SECTORDER_FLAGS = "";
-				USE_HEADERMAP = NO;
-				WARNING_CFLAGS = ("$(inherited)");
-			};
-			name = MinSizeRel;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		32368F81DD004806A24A45DD /* Build configuration list for PBXAggregateTarget "ALL_BUILD" */ = {
+		3211853456CC4312913A5D5C /* Build configuration list for PBXNativeTarget "step_lab_run" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				C2839B02A6F94860967E925B /* Debug */,
-				37020F532A8E452D8FF07EF1 /* Release */,
-				974884B885EA4B85B88DF6B4 /* MinSizeRel */,
-				8A56D7B4F82048A3866AAFA1 /* RelWithDebInfo */,
+				F1EC38CBBA5941C684EB28EE /* Debug */,
+				A29064C31A794E8DA31C6C7A /* Release */,
+				F02CC8BFE6EC42F19C9A56A9 /* MinSizeRel */,
+				1F7D3BE22FB04ACB86E2040C /* RelWithDebInfo */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Debug;
 		};
-		92FAB1202A0D43E7A053F07B /* Build configuration list for PBXNativeTarget "step_lab_run" */ = {
+		38AA2ABBB46F4FE0A8233A27 /* Build configuration list for PBXProject "step_lab" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				374186851419494789AAB192 /* Debug */,
-				BDCE7297492F4AC28D287329 /* Release */,
-				DFDC05E938C94635A33189B8 /* MinSizeRel */,
-				766EECAA71384CEEB12E45D3 /* RelWithDebInfo */,
+				8E063F2FF38B402499A0C725 /* Debug */,
+				39664A79EC714AFBA16376FD /* Release */,
+				DAED1EA9689B410589908EA4 /* MinSizeRel */,
+				E5864A708F60462EBE1460D5 /* RelWithDebInfo */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Debug;
 		};
-		A047A17CF86F4A118A236543 /* Build configuration list for PBXProject "step_lab" */ = {
+		394C2DEC629D4C908917387B /* Build configuration list for PBXAggregateTarget "ZERO_CHECK" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				DD710C1A94F14BBEBD2712CE /* Debug */,
-				D6AACC4237AF456384108F02 /* Release */,
-				410C26370D624A37BFF1B451 /* MinSizeRel */,
-				933681F14EAD4AE09EC14C25 /* RelWithDebInfo */,
+				14848C3C66B54141B561A4E1 /* Debug */,
+				DB199FF6D8C6490EA0B3D8F0 /* Release */,
+				30B60AEDE09D4C9EBBD1CA6A /* MinSizeRel */,
+				E1C406B191984427819BED93 /* RelWithDebInfo */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Debug;
 		};
-		A42BD802F2EE49A4B1693D2A /* Build configuration list for PBXAggregateTarget "ZERO_CHECK" */ = {
+		6098E4BC3DEA47E1BE1DA02D /* Build configuration list for PBXAggregateTarget "ALL_BUILD" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				8F97E81991AF49B48C43345B /* Debug */,
-				6B562369DC9A43E597078A85 /* Release */,
-				FDA6D863175643AD8C439449 /* MinSizeRel */,
-				A7813359BC29451EA4A5DEF0 /* RelWithDebInfo */,
+				34870626790142C3A47D1C8A /* Debug */,
+				022E7DCE87C74016B15058FF /* Release */,
+				220DCE0606AE4544BDD7D6A3 /* MinSizeRel */,
+				1CDFC7D7A3AB465398C893D0 /* RelWithDebInfo */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Debug;
 		};
-		F5182599E88948129FE599A8 /* Build configuration list for PBXNativeTarget "step_lab_benchmark" */ = {
+		E09D7CBAE1804537A3E77553 /* Build configuration list for PBXNativeTarget "step_lab_benchmark" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				FBEBCE87F9E74CC99B3ADD1E /* Debug */,
-				0CD86FE08D9E4F5795059B58 /* Release */,
-				6BEE968B925445598DB1EC8A /* MinSizeRel */,
-				97131E7BE74E4F6DBA500FA8 /* RelWithDebInfo */,
+				F41B9B47BECE4279AFCD2367 /* Debug */,
+				298B4A22FB1B47B882593DBB /* Release */,
+				7E6EEEAE005C41F19ACE97AC /* MinSizeRel */,
+				1175D3FACED1417BA8732AB7 /* RelWithDebInfo */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Debug;

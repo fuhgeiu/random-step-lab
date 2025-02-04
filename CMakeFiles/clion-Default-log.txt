@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/x64/bin/cmake -G Xcode -S /Users/alexcarnes/Documents/GitHub/random-step-lab -B /Users/alexcarnes/Documents/GitHub/random-step-lab
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/alexcarnes/Documents/GitHub/random-step-lab
