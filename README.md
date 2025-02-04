@@ -4,6 +4,7 @@ repo for lab 1 for cs algorithim class
                             !! IMPORTANT !!
 
         - This project can be used with google benchmark 
+        - This project assumes, benchmark library is built on disk and path is known
         - Can be built with benchmark and without
         - Can run program base without google benchmark
 
