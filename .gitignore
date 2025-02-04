@@ -35,5 +35,6 @@
 step lab/step lab.xcodeproj
 
 .DS_Store
-.
+
+/build
 
