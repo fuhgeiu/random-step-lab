@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="step_lab" targetName="step_lab_run" />
+      <config projectName="step_lab" targetName="step_lab_benchmark" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Default" ENABLED="true" GENERATION_DIR="." GENERATION_OPTIONS="-G &quot;Xcode&quot;" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e8fa5d00-5946-42ea-b5bf-9d48bc444eb0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.cmake/api/v1/reply/cache-v2-09d962e61fdf54bab2f7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cmake/api/v1/reply/cmakeFiles-v1-e4f05c8190884ecbcbc9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cmake/api/v1/reply/codemodel-v2-820969ab7460d1d5074e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cmake/api/v1/reply/index-2025-02-04T01-06-12-0019.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cmake/api/v1/reply/target-ALL_BUILD-Debug-c2737a5587833d0fcb1f.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cmake/api/v1/reply/target-ALL_BUILD-MinSizeRel-c2737a5587833d0fcb1f.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cmake/api/v1/reply/target-ALL_BUILD-RelWithDebInfo-c2737a5587833d0fcb1f.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cmake/api/v1/reply/target-ALL_BUILD-Release-c2737a5587833d0fcb1f.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cmake/api/v1/reply/toolchains-v1-4712cf86f0549306cbf3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/random-step-lab.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.28.1/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/3.28.1/CMakeCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.28.1/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.28.1/CompilerIdC/CompilerIdC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.28.1/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC-d9d24303ac0ea36fa2bc7f98aeea5fe3-VFS/all-product-headers.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.28.1/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-all-non-framework-target-headers.hmap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.28.1/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-all-target-headers.hmap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.28.1/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-generated-files.hmap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.28.1/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-own-target-headers.hmap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.28.1/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-project-headers.hmap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.28.1/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC.DependencyMetadataFileList" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.28.1/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC.hmap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.28.1/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC.xcent" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.28.1/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC.xcent.der" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.28.1/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/DerivedSources/Entitlements.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.28.1/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/x86_64/7187679823f38a2a940e0043cdf9d637-common-args.resp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.28.1/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/x86_64/CMakeCCompilerId.dia" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.28.1/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/x86_64/CompilerIdC.LinkFileList" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.28.1/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/x86_64/CompilerIdC_dependency_info.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.28.1/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Script-2C8FEB8E15DC1A1A00E56A5D.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.28.1/CompilerIdC/CompilerIdC.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.28.1/CompilerIdC/XCBuildData/03679f6b23b701a6b5fef2a16799ca9d.xcbuilddata/attachments/177becd055ce63eae4d9f1e7ec0ce515" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.28.1/CompilerIdC/XCBuildData/03679f6b23b701a6b5fef2a16799ca9d.xcbuilddata/attachments/309ea88dd03589a820cbccb52ab4ad6a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.28.1/CompilerIdC/XCBuildData/03679f6b23b701a6b5fef2a16799ca9d.xcbuilddata/attachments/5264f4750cf6201322b763445cf09e87" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.28.1/CompilerIdC/XCBuildData/03679f6b23b701a6b5fef2a16799ca9d.xcbuilddata/attachments/8bba4233626f64a7ea772bb94a08a1a9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.28.1/CompilerIdC/XCBuildData/03679f6b23b701a6b5fef2a16799ca9d.xcbuilddata/attachments/a51551c9d91c1a367693ffa4732dedf6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.28.1/CompilerIdC/XCBuildData/03679f6b23b701a6b5fef2a16799ca9d.xcbuilddata/attachments/d41d8cd98f00b204e9800998ecf8427e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.28.1/CompilerIdC/XCBuildData/03679f6b23b701a6b5fef2a16799ca9d.xcbuilddata/attachments/fd8314defc70a8778956f026c0ddfd19" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.28.1/CompilerIdC/XCBuildData/03679f6b23b701a6b5fef2a16799ca9d.xcbuilddata/build-request.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.28.1/CompilerIdC/XCBuildData/03679f6b23b701a6b5fef2a16799ca9d.xcbuilddata/description.msgpack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.28.1/CompilerIdC/XCBuildData/03679f6b23b701a6b5fef2a16799ca9d.xcbuilddata/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.28.1/CompilerIdC/XCBuildData/03679f6b23b701a6b5fef2a16799ca9d.xcbuilddata/target-graph.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.28.1/CompilerIdC/XCBuildData/03679f6b23b701a6b5fef2a16799ca9d.xcbuilddata/task-store.msgpack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.28.1/CompilerIdC/XCBuildData/build.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.28.1/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.28.1/CompilerIdCXX/CompilerIdCXX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.28.1/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX-cab83bf49ed2df1b1ab81a78cb182d1a-VFS/all-product-headers.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.28.1/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX-all-non-framework-target-headers.hmap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.28.1/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX-all-target-headers.hmap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.28.1/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX-generated-files.hmap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.28.1/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX-own-target-headers.hmap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.28.1/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX-project-headers.hmap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.28.1/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX.DependencyMetadataFileList" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.28.1/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX.hmap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.28.1/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX.xcent" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.28.1/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX.xcent.der" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.28.1/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/DerivedSources/Entitlements.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.28.1/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/x86_64/82b82416624d2658e5098eb0a28c15c5-common-args.resp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.28.1/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/x86_64/CMakeCXXCompilerId.dia" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.28.1/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/x86_64/CompilerIdCXX.LinkFileList" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.28.1/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/x86_64/CompilerIdCXX_dependency_info.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.28.1/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Script-2C8FEB8E15DC1A1A00E56A5D.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.28.1/CompilerIdCXX/CompilerIdCXX.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.28.1/CompilerIdCXX/XCBuildData/bd0b71d813a65cd0af5caf864e42eb07.xcbuilddata/attachments/177becd055ce63eae4d9f1e7ec0ce515" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.28.1/CompilerIdCXX/XCBuildData/bd0b71d813a65cd0af5caf864e42eb07.xcbuilddata/attachments/7ac7e6ec5f73dea5bff03701f7ba9662" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.28.1/CompilerIdCXX/XCBuildData/bd0b71d813a65cd0af5caf864e42eb07.xcbuilddata/attachments/8bba4233626f64a7ea772bb94a08a1a9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.28.1/CompilerIdCXX/XCBuildData/bd0b71d813a65cd0af5caf864e42eb07.xcbuilddata/attachments/a51551c9d91c1a367693ffa4732dedf6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.28.1/CompilerIdCXX/XCBuildData/bd0b71d813a65cd0af5caf864e42eb07.xcbuilddata/attachments/a551a38f75cd2cb6d2079f0fa7e10d1e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.28.1/CompilerIdCXX/XCBuildData/bd0b71d813a65cd0af5caf864e42eb07.xcbuilddata/attachments/d41d8cd98f00b204e9800998ecf8427e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.28.1/CompilerIdCXX/XCBuildData/bd0b71d813a65cd0af5caf864e42eb07.xcbuilddata/attachments/fd8314defc70a8778956f026c0ddfd19" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.28.1/CompilerIdCXX/XCBuildData/bd0b71d813a65cd0af5caf864e42eb07.xcbuilddata/build-request.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.28.1/CompilerIdCXX/XCBuildData/bd0b71d813a65cd0af5caf864e42eb07.xcbuilddata/description.msgpack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.28.1/CompilerIdCXX/XCBuildData/bd0b71d813a65cd0af5caf864e42eb07.xcbuilddata/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.28.1/CompilerIdCXX/XCBuildData/bd0b71d813a65cd0af5caf864e42eb07.xcbuilddata/target-graph.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.28.1/CompilerIdCXX/XCBuildData/bd0b71d813a65cd0af5caf864e42eb07.xcbuilddata/task-store.msgpack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.28.1/CompilerIdCXX/XCBuildData/build.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.31.5/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.31.5/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.31.5/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.31.5/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.31.5/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.31.5/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.31.5/CompilerIdC/CompilerIdC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.31.5/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC-d9d24303ac0ea36fa2bc7f98aeea5fe3-VFS/all-product-headers.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.31.5/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-all-non-framework-target-headers.hmap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.31.5/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-all-target-headers.hmap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.31.5/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-generated-files.hmap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.31.5/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-own-target-headers.hmap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.31.5/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC-project-headers.hmap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.31.5/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC.DependencyMetadataFileList" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.31.5/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC.hmap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.31.5/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC.xcent" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.31.5/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/CompilerIdC.xcent.der" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.31.5/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/DerivedSources/Entitlements.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.31.5/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/x86_64/7187679823f38a2a940e0043cdf9d637-common-args.resp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.31.5/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/x86_64/CMakeCCompilerId.dia" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.31.5/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/x86_64/CompilerIdC.LinkFileList" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.31.5/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Objects-normal/x86_64/CompilerIdC_dependency_info.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.31.5/CompilerIdC/CompilerIdC.build/Debug/CompilerIdC.build/Script-2C8FEB8E15DC1A1A00E56A5D.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.31.5/CompilerIdC/CompilerIdC.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.31.5/CompilerIdC/XCBuildData/6ce3c79cf2e987db0c7a49dbbcda89ff.xcbuilddata/attachments/177becd055ce63eae4d9f1e7ec0ce515" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.31.5/CompilerIdC/XCBuildData/6ce3c79cf2e987db0c7a49dbbcda89ff.xcbuilddata/attachments/5d4694df2a691b7c53b815d7127a0be0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.31.5/CompilerIdC/XCBuildData/6ce3c79cf2e987db0c7a49dbbcda89ff.xcbuilddata/attachments/8bba4233626f64a7ea772bb94a08a1a9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.31.5/CompilerIdC/XCBuildData/6ce3c79cf2e987db0c7a49dbbcda89ff.xcbuilddata/attachments/a51551c9d91c1a367693ffa4732dedf6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.31.5/CompilerIdC/XCBuildData/6ce3c79cf2e987db0c7a49dbbcda89ff.xcbuilddata/attachments/c763f7bdce96783ad4b808b0ca4ca614" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.31.5/CompilerIdC/XCBuildData/6ce3c79cf2e987db0c7a49dbbcda89ff.xcbuilddata/attachments/d41d8cd98f00b204e9800998ecf8427e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.31.5/CompilerIdC/XCBuildData/6ce3c79cf2e987db0c7a49dbbcda89ff.xcbuilddata/attachments/fd8314defc70a8778956f026c0ddfd19" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.31.5/CompilerIdC/XCBuildData/6ce3c79cf2e987db0c7a49dbbcda89ff.xcbuilddata/build-request.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.31.5/CompilerIdC/XCBuildData/6ce3c79cf2e987db0c7a49dbbcda89ff.xcbuilddata/description.msgpack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.31.5/CompilerIdC/XCBuildData/6ce3c79cf2e987db0c7a49dbbcda89ff.xcbuilddata/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.31.5/CompilerIdC/XCBuildData/6ce3c79cf2e987db0c7a49dbbcda89ff.xcbuilddata/target-graph.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.31.5/CompilerIdC/XCBuildData/6ce3c79cf2e987db0c7a49dbbcda89ff.xcbuilddata/task-store.msgpack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.31.5/CompilerIdC/XCBuildData/build.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.31.5/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.31.5/CompilerIdCXX/CompilerIdCXX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.31.5/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX-cab83bf49ed2df1b1ab81a78cb182d1a-VFS/all-product-headers.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.31.5/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX-all-non-framework-target-headers.hmap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.31.5/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX-all-target-headers.hmap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.31.5/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX-generated-files.hmap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.31.5/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX-own-target-headers.hmap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.31.5/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX-project-headers.hmap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.31.5/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX.DependencyMetadataFileList" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.31.5/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX.hmap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.31.5/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX.xcent" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.31.5/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX.xcent.der" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.31.5/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/DerivedSources/Entitlements.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.31.5/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/x86_64/82b82416624d2658e5098eb0a28c15c5-common-args.resp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.31.5/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/x86_64/CMakeCXXCompilerId.dia" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.31.5/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/x86_64/CompilerIdCXX.LinkFileList" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.31.5/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/x86_64/CompilerIdCXX_dependency_info.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.31.5/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Script-2C8FEB8E15DC1A1A00E56A5D.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.31.5/CompilerIdCXX/CompilerIdCXX.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.31.5/CompilerIdCXX/XCBuildData/b1b931b0fff7cbc0256a8ed430595e01.xcbuilddata/attachments/177becd055ce63eae4d9f1e7ec0ce515" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.31.5/CompilerIdCXX/XCBuildData/b1b931b0fff7cbc0256a8ed430595e01.xcbuilddata/attachments/43f24e81a36324fd783a2daac4bfadae" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.31.5/CompilerIdCXX/XCBuildData/b1b931b0fff7cbc0256a8ed430595e01.xcbuilddata/attachments/68a81b5bc792146ef5c067ca3dbe1e39" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.31.5/CompilerIdCXX/XCBuildData/b1b931b0fff7cbc0256a8ed430595e01.xcbuilddata/attachments/8bba4233626f64a7ea772bb94a08a1a9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.31.5/CompilerIdCXX/XCBuildData/b1b931b0fff7cbc0256a8ed430595e01.xcbuilddata/attachments/a51551c9d91c1a367693ffa4732dedf6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.31.5/CompilerIdCXX/XCBuildData/b1b931b0fff7cbc0256a8ed430595e01.xcbuilddata/attachments/d41d8cd98f00b204e9800998ecf8427e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.31.5/CompilerIdCXX/XCBuildData/b1b931b0fff7cbc0256a8ed430595e01.xcbuilddata/attachments/fd8314defc70a8778956f026c0ddfd19" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.31.5/CompilerIdCXX/XCBuildData/b1b931b0fff7cbc0256a8ed430595e01.xcbuilddata/build-request.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.31.5/CompilerIdCXX/XCBuildData/b1b931b0fff7cbc0256a8ed430595e01.xcbuilddata/description.msgpack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.31.5/CompilerIdCXX/XCBuildData/b1b931b0fff7cbc0256a8ed430595e01.xcbuilddata/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.31.5/CompilerIdCXX/XCBuildData/b1b931b0fff7cbc0256a8ed430595e01.xcbuilddata/target-graph.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.31.5/CompilerIdCXX/XCBuildData/b1b931b0fff7cbc0256a8ed430595e01.xcbuilddata/task-store.msgpack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.31.5/CompilerIdCXX/XCBuildData/build.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/clion-Default-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/clion-Default-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeScripts/ReRunCMake.make" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeScripts/ReRunCMake.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Debug/step_lab_run" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Debug/steplab.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/XCBuildData/302101af6de36bb9b5dab88d52b00a43.xcbuilddata/attachments/6076a7ac5c18fac1bf3357132954f4ad" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/XCBuildData/302101af6de36bb9b5dab88d52b00a43.xcbuilddata/attachments/a0ec6d8ebe14fcf50de8470579fa01a5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/XCBuildData/302101af6de36bb9b5dab88d52b00a43.xcbuilddata/attachments/d41d8cd98f00b204e9800998ecf8427e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/XCBuildData/302101af6de36bb9b5dab88d52b00a43.xcbuilddata/attachments/d55bd0fe1b179b36936bab7ecaf8418a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/XCBuildData/302101af6de36bb9b5dab88d52b00a43.xcbuilddata/build-request.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/XCBuildData/302101af6de36bb9b5dab88d52b00a43.xcbuilddata/description.msgpack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/XCBuildData/302101af6de36bb9b5dab88d52b00a43.xcbuilddata/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/XCBuildData/302101af6de36bb9b5dab88d52b00a43.xcbuilddata/target-graph.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/XCBuildData/302101af6de36bb9b5dab88d52b00a43.xcbuilddata/task-store.msgpack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/XCBuildData/50f4bb350762e236a8450178b3edb8ee.xcbuilddata/attachments/6076a7ac5c18fac1bf3357132954f4ad" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/XCBuildData/50f4bb350762e236a8450178b3edb8ee.xcbuilddata/attachments/a0ec6d8ebe14fcf50de8470579fa01a5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/XCBuildData/50f4bb350762e236a8450178b3edb8ee.xcbuilddata/attachments/a51551c9d91c1a367693ffa4732dedf6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/XCBuildData/50f4bb350762e236a8450178b3edb8ee.xcbuilddata/attachments/d41d8cd98f00b204e9800998ecf8427e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/XCBuildData/50f4bb350762e236a8450178b3edb8ee.xcbuilddata/attachments/d55bd0fe1b179b36936bab7ecaf8418a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/XCBuildData/50f4bb350762e236a8450178b3edb8ee.xcbuilddata/build-request.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/XCBuildData/50f4bb350762e236a8450178b3edb8ee.xcbuilddata/description.msgpack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/XCBuildData/50f4bb350762e236a8450178b3edb8ee.xcbuilddata/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/XCBuildData/50f4bb350762e236a8450178b3edb8ee.xcbuilddata/target-graph.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/XCBuildData/50f4bb350762e236a8450178b3edb8ee.xcbuilddata/task-store.msgpack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/XCBuildData/66610143cf393671c5d15c4324884c98.xcbuilddata/attachments/6076a7ac5c18fac1bf3357132954f4ad" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/XCBuildData/66610143cf393671c5d15c4324884c98.xcbuilddata/attachments/a0ec6d8ebe14fcf50de8470579fa01a5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/XCBuildData/66610143cf393671c5d15c4324884c98.xcbuilddata/attachments/a51551c9d91c1a367693ffa4732dedf6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/XCBuildData/66610143cf393671c5d15c4324884c98.xcbuilddata/attachments/d41d8cd98f00b204e9800998ecf8427e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/XCBuildData/66610143cf393671c5d15c4324884c98.xcbuilddata/attachments/d55bd0fe1b179b36936bab7ecaf8418a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/XCBuildData/66610143cf393671c5d15c4324884c98.xcbuilddata/build-request.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/XCBuildData/66610143cf393671c5d15c4324884c98.xcbuilddata/description.msgpack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/XCBuildData/66610143cf393671c5d15c4324884c98.xcbuilddata/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/XCBuildData/66610143cf393671c5d15c4324884c98.xcbuilddata/target-graph.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/XCBuildData/66610143cf393671c5d15c4324884c98.xcbuilddata/task-store.msgpack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/XCBuildData/build.db" beforeDir="false" afterPath="$PROJECT_DIR$/build/XCBuildData/build.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/XCBuildData/f5e11c9122c5686da2138ee06c1b786f.xcbuilddata/attachments/6076a7ac5c18fac1bf3357132954f4ad" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/XCBuildData/f5e11c9122c5686da2138ee06c1b786f.xcbuilddata/attachments/a0ec6d8ebe14fcf50de8470579fa01a5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/XCBuildData/f5e11c9122c5686da2138ee06c1b786f.xcbuilddata/attachments/d41d8cd98f00b204e9800998ecf8427e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/XCBuildData/f5e11c9122c5686da2138ee06c1b786f.xcbuilddata/attachments/d55bd0fe1b179b36936bab7ecaf8418a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/XCBuildData/f5e11c9122c5686da2138ee06c1b786f.xcbuilddata/build-request.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/XCBuildData/f5e11c9122c5686da2138ee06c1b786f.xcbuilddata/description.msgpack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/XCBuildData/f5e11c9122c5686da2138ee06c1b786f.xcbuilddata/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/XCBuildData/f5e11c9122c5686da2138ee06c1b786f.xcbuilddata/target-graph.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/XCBuildData/f5e11c9122c5686da2138ee06c1b786f.xcbuilddata/task-store.msgpack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/step_lab.build/Debug/ALL_BUILD.build/Script-BA59B84501F2E0764EF8B6BB.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/step_lab.build/Debug/ZERO_CHECK.build/Script-FACA3E989B5DCD6FA37CEDD4.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/step_lab_benchmark.build/Debug/DerivedSources/Entitlements.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/step_lab_benchmark.build/Debug/Objects-normal/x86_64/benchmark.dia" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/step_lab_benchmark.build/Debug/Objects-normal/x86_64/main.dia" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/step_lab_benchmark.build/Debug/Objects-normal/x86_64/step_lab_benchmark.LinkFileList" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/step_lab_benchmark.build/Debug/step_lab_benchmark.xcent" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/step_lab_benchmark.build/Debug/step_lab_benchmark.xcent.der" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/step_lab_run.build/Debug/DerivedSources/Entitlements.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/step_lab_run.build/Debug/Objects-normal/x86_64/82b82416624d2658e5098eb0a28c15c5-common-args.resp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/step_lab_run.build/Debug/Objects-normal/x86_64/main.dia" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/step_lab_run.build/Debug/Objects-normal/x86_64/step_lab_run.LinkFileList" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/step_lab_run.build/Debug/Objects-normal/x86_64/step_lab_run_dependency_info.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/step_lab_run.build/Debug/step_lab_run.DependencyMetadataFileList" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/step_lab_run.build/Debug/step_lab_run.xcent" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/step_lab_run.build/Debug/step_lab_run.xcent.der" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/step_lab.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/step_lab.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/step_lab.xcodeproj/project.xcworkspace/xcuserdata/alexcarnes.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/step_lab.xcodeproj/project.xcworkspace/xcuserdata/alexcarnes.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/step_lab.xcodeproj/project.xcworkspace/xcuserdata/alexcarnes.xcuserdatad/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/step_lab.xcodeproj/xcshareddata/xcschemes/step_lab_benchmark.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/step_lab.xcodeproj/xcuserdata/alexcarnes.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" afterPath="$PROJECT_DIR$/step_lab.xcodeproj/xcuserdata/alexcarnes.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/testing/Temporary/LastTest.log" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Default" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2024" />
+    <option name="minorVersion" value="1.2" />
+    <option name="productBranch" value="Classic" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2sXs4RjZ2eDQN0ofxbU0ctnEMbQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;C/C++ File.benchmark.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.step_lab_run.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;full-version&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/alexcarnes/Documents/GitHub/random-step-lab&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="CMake Application.step_lab_run">
+    <configuration name="step_lab_benchmark" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="step_lab" TARGET_NAME="step_lab_benchmark" CONFIG_NAME="Default" RUN_TARGET_PROJECT_NAME="step_lab" RUN_TARGET_NAME="step_lab_benchmark" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="step_lab_run" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="step_lab" TARGET_NAME="step_lab_run" CONFIG_NAME="Default" RUN_TARGET_PROJECT_NAME="step_lab" RUN_TARGET_NAME="step_lab_run">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="benchmark.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="step_lab" TARGET_NAME="benchmark.cpp" CONFIG_NAME="benchmark.cpp">
+      <option name="sourceFile" value="testing/benchmark.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="C/C++ File.benchmark.cpp" />
+      <item itemvalue="CMake Application.step_lab_run" />
+      <item itemvalue="Google Test.step_lab_benchmark" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="C/C++ File.benchmark.cpp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e8fa5d00-5946-42ea-b5bf-9d48bc444eb0" name="Changes" comment="" />
+      <created>1738613063413</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1738613063413</updated>
+      <workItem from="1738613064789" duration="414000" />
+      <workItem from="1738631170212" duration="528000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+  </component>
+</project>
