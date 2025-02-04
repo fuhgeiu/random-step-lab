@@ -11,9 +11,9 @@ repo for lab 1 for cs algorithim class
 ___
 
                             OPTIONS TO RUNNING
-        * both options can run both benchmark and non benchmar
+        * to run the benchmark file, must have googel benchmark library built and change cmake file to its paths
 
-        - use cmake to build 
+        - use cmake to build, can run both base and benchmark versions
         
         - compile step_lab_main/main.cpp to run the program without any benchmarking or any google dependencies
 
