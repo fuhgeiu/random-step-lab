@@ -15,7 +15,7 @@ ___
 
         - use cmake to build 
         
-        - open the xcode project already built
+        - compile step_lab_main/main.cpp to run the program without any benchmarking or any google dependencies
 
 
 
