@@ -1,4 +1,0 @@
-/Users/alexcarnes/Documents/GitHub/random-step-lab/CMakeFiles/step_lab_run.dir
-/Users/alexcarnes/Documents/GitHub/random-step-lab/CMakeFiles/step_lab_benchmark.dir
-/Users/alexcarnes/Documents/GitHub/random-step-lab/CMakeFiles/ALL_BUILD.dir
-/Users/alexcarnes/Documents/GitHub/random-step-lab/CMakeFiles/ZERO_CHECK.dir
